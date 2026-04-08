@@ -31,7 +31,7 @@ const corsOptions = {
     "http://localhost:5173",
     "http://localhost:5174",
     "https://feedxmarkii.netlify.app",
-     "https://your-app-name.vercel.app",
+     "https://feedx-frontend.vercel.app",
   ], // Tumhare frontend origins
   credentials: true, // Cookies aur auth headers allow karne ke liye
   methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], // Sab methods allow
